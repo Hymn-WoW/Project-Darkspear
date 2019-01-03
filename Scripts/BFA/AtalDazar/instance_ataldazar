@@ -1,6 +1,5 @@
 /*
  * Copyright (C) 2017-2019 Project Darkspear <https://github.com/Hymn-WoW/Project-Darkspear>
- * Copyright (C) 2016 Firestorm Servers <https://firestorm-servers.com>
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
@@ -16,29 +15,18 @@
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef ATAL_DAZAR_H
-#define ATAL_DAZAR_H
+#include "ScriptMgr.h"
+#include "InstanceScript.h"
+#include "Player.h"
+#include "GameObject.h"
+#include "PassiveAI.h"
+#include "AreaTrigger.h"
+#include "AreaTriggerAI.h"
+#include "ScriptedCreature.h"
+#include "SpellScript.h"
+#include "SpellMgr.h"
+#include "ataldazar.h"
 
-#define AtalDazarScriptName "Instance_atal_dazar"
-#define DataHeader "ATLD"
-
-enum CreaturesIds
+void AddSC_ataldazar()
 {
-	// Bosses
-	NPC_PRIESTESS_ALUNZA	= 122967,
-	NPC_VOL_KAAL			= 122965,
-	NPC_REZAN				= 122963,
-	NPC_YAZMA				= 122968,
-	
-};
-enum CreatureSpells
-{
-	//Priestess_Alunza
-	SpellTransfution		= 255836,
-	SpellGildedClaws		= 255579,
-	SpellMoltenGold			= 255591,
-	
-};
-
-
-#endif
+}
