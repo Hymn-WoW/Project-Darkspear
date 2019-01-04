@@ -25,10 +25,10 @@
 enum CreaturesIds
 {
 	// Bosses
-	NPC_PRIESTESS_ALUNZA	= 122967,
+	NPC_PRIESTESS_ALUNZA		= 122967,
 	NPC_VOL_KAAL			= 122965,
-	NPC_REZAN				= 122963,
-	NPC_YAZMA				= 122968,
+	NPC_REZAN			= 122963,
+	NPC_YAZMA			= 122968,
 	
 };
 enum CreatureSpells
