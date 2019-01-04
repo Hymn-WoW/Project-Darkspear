@@ -17,8 +17,8 @@ Scripts are Currently Tested on the Current Trinity Master build.
 We suggest when Working on a Local host that you use the same build.
 
 ## Links
-[Discord](https://discord.gg/aykQcAq)
-[Trinity Core](https://github.com/TrinityCore/TrinityCore)
-[Trinity Installations Guide](https://trinitycore.atlassian.net/wiki/spaces/tc/pages/2130077/Installation+Guide)
+* [Discord](https://discord.gg/aykQcAq)
+* [Trinity Core](https://github.com/TrinityCore/TrinityCore)
+* [Trinity Installations Guide](https://trinitycore.atlassian.net/wiki/spaces/tc/pages/2130077/Installation+Guide)
 
 -- Copyright 2019 - Project-Darkspear --
